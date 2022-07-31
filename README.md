@@ -13,3 +13,22 @@
 ---
 ## Créditos
 - [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
+
+
+***ENGLISH VERSION***
+
+# 36 DPI NavBar for Miui 10-11-12
+
+---
+## Quick view
+- Reduces the size of the navigation bar to 36 DPI, maximizing the available screen space.
+
+## Compatibility
+- Android higher than version 8 (May work on older versions, not tested).
+- Magisk above version 20.4
+- Has been tested on Miui 10-11-12 ROMs, not guaranteed to work on other versions.
+- Not compatible with any other layer (OOs, Pixel, etc). ONLY with Miui.
+
+---
+## Credits.
+- [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
