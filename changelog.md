@@ -7,7 +7,9 @@
     Probado en Android Miui 10-11-12
 	
 ---
+
 *ENGLISH VERSION*
+
 ---
 
 ##Changelog:
