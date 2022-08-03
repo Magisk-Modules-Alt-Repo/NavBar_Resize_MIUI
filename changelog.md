@@ -1,6 +1,4 @@
----
-
-##Registro de cambios:
+## Registro de cambios:
 
 -1.0
     Versión inicial, compatible con Android 8 y superiores
@@ -12,7 +10,7 @@
 
 ---
 
-##Changelog:
+## Changelog:
 
 -1.0 
     Initial version, compatible with Android 8 and higher
