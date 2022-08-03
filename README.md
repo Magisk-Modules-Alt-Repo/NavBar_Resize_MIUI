@@ -1,4 +1,4 @@
-# 36 DPI NavBar para Miui 10-11-12
+# 36 DPI NavBar para Miui 10-11-12-13
 
 ---
 ## Vista rápida
@@ -17,7 +17,7 @@
 
 ***ENGLISH VERSION***
 
-# 36 DPI NavBar for Miui 10-11-12
+# 36 DPI NavBar for Miui 10-11-12-13
 
 ---
 ## Quick view
