@@ -6,7 +6,7 @@
 ## Compatibilidad
 - Android superior a la versión 8 (Puede funcionar en versiones antiguas, no está probado).
 - Magisk superior a versión 20.4.
-- Ha sido probado en ROMs Miui 10-11-12-13, no se garantiza el funcionamiento en otras versiones.
+- Ha sido probado en ROMs Miui 10-11-12-13 (En algunos dispositivos puede no funcionar), no se garantiza el funcionamiento en otras versiones.
 - No es compatible con ninguna otra capa (OOs, Pixel, etc). SOLO con Miui.
 
 ## Créditos
@@ -23,7 +23,7 @@
 ## Compatibility
 - Android higher than version 8 (May work on older versions, not tested).
 - Magisk above version 20.4.
-- Has been tested on Miui 10-11-12-13 ROMs, not guaranteed to work on other versions.
+- Has been tested on Miui 10-11-12-13 ROMs (On some devices it may not work), not guaranteed to work on other versions.
 - Not compatible with any other layer (OOs, Pixel, etc). ONLY with Miui.
 
 ## Credits
