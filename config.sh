@@ -45,7 +45,7 @@ sleep 1
   ui_print " ========================="
   ui_print " *    SystemLess Resize   *"
   ui_print " *      NavBar 36 DPI     *"
-  ui_print " *    For Miui 10-11-12   *"
+  ui_print " *  For Miui 10-11-12-13  *"
   ui_print " ========================="
   
 sleep 1
